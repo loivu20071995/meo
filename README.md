@@ -1,2 +1,0 @@
-# meo
-meo store
