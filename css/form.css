@@ -1,0 +1,72 @@
+/*================================== BUTTOM CHANGE =======================================*/
+
+#wrapper #header .top .currency .btn-link{
+    color: #FFF;
+	height: 22px;
+	line-height: 22px ;
+    background: url(../image/change-rbg.png) right top no-repeat;
+    padding-right: 7px;
+    display: inline-block;
+}
+
+	#wrapper #header .top .currency .btn-link span{
+		background: url(../image/change-lbg.png) left top no-repeat;
+		padding-left: 7px;
+		display: block;
+	}
+	
+	#wrapper #header .top .currency .btn-link:hover{
+		color: #000;
+	}
+	
+/*================================== BUTTOM LOGIN =======================================*/
+
+#box-login #login-form .row .btn-link {
+    color: #FFF;
+	height: 22px;
+	line-height: 22px ;
+    background: url(../image/change-rbg.png) right top no-repeat;
+    padding-right: 7px;
+    display: inline-block;
+	width: 56px;
+	text-align: center;
+}
+
+	#box-login #login-form .row .btn-link span {
+		background: url(../image/change-lbg.png) left top no-repeat;
+		padding-left: 7px;
+		display: block;
+	}
+	
+	#box-login #login-form .row .btn-link:hover {
+		color: #000;
+	}
+	
+/*================================== INPUT - BOX LOGIN =======================================*/
+
+#box-login #login-form .row span.buttom , #box-search #search-form .row span.buttom{
+	display: block;
+	background:url(../image/bg-text-l.gif) left top no-repeat;
+	height: 27px;
+	line-height: 27px;
+}
+
+	#box-login #login-form .row span.buttom	span , #box-search #search-form .row span.buttom span{
+		display: inline-block;
+		background:url(../image/bg-text-r.gif) right top no-repeat;
+		height: 27px;
+		line-height: 27px;
+	}
+	
+	#box-login #login-form .row span.buttom span input , #box-search #search-form .row span.buttom span input{
+		border: none;
+		background:url(../image/bg-text-c.gif) left top repeat-x;
+		height: 27px;
+		line-height: 27px;
+		margin: 0px 6px;
+		outline: none;
+		*margin-top: -1px;
+		font-size: 10px;
+		width: 166px;
+	}
+	
